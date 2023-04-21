@@ -2,12 +2,14 @@
 
 ## LLM
 - [OpenAI GPT4](https://openai.com/research/gpt-4),the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.
-- [LaMDA, Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/), google's LLM
+- [LaMDA-Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/), Google's LLM
+- [LLaMA-Large Language Model Meta AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), Meta's LLM
 - [ERNIE 文心](https://wenxin.baidu.com/), 百度文心大模型
 
 ## Frameworks
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), Enhancing Vision-language Understanding with Advanced Large Language Models
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT), an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI.
+- [LLaMA](https://github.com/facebookresearch/llama), inference code for LLaMA models.
 - [Web LLM](https://github.com/mlc-ai/web-llm), it brings large-language model and LLM-based chatbot to web browsers. Everything runs inside the browser with no server support and accelerated with WebGPU. 
 
 ## Chat Tools

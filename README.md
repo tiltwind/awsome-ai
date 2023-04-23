@@ -13,6 +13,8 @@
 - [LLaMA](https://github.com/facebookresearch/llama), inference code for LLaMA models.
 - [Web LLM](https://github.com/mlc-ai/web-llm), it brings large-language model and LLM-based chatbot to web browsers. Everything runs inside the browser with no server support and accelerated with WebGPU. 
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), Enhancing Vision-language Understanding with Advanced Large Language Models
+- [gpt4free](https://github.com/xtekky/gpt4free), decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
+- [bark](https://github.com/suno-ai/bark), a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying. 
 
 ## Chat Tools
 - [ChatGPT](https://chat.openai.com/chat), chat based on OpenAI GPT.

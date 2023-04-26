@@ -14,6 +14,10 @@
 - [Web LLM](https://github.com/mlc-ai/web-llm), it brings large-language model and LLM-based chatbot to web browsers. Everything runs inside the browser with no server support and accelerated with WebGPU. 
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), Enhancing Vision-language Understanding with Advanced Large Language Models
 - [gpt4free](https://github.com/xtekky/gpt4free), decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
+- [gpt4all](https://github.com/nomic-ai/gpt4all), an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue.
+- [LocalAI](https://github.com/go-skynet/LocalAI), a straightforward, drop-in replacement API compatible with OpenAI for local CPU inferencing, based on llama.cpp, gpt4all and ggml, including support GPT4ALL-J.
+- [ggml](https://github.com/ggerganov/ggml), Tensor library for machine learning.
+- [llama.cpp](https://github.com/ggerganov/llama.cpp), Port of Facebook's LLaMA model in C/C++.
 - [bark](https://github.com/suno-ai/bark), a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying. 
 
 ## Chat
@@ -44,10 +48,14 @@
 ## Video 
 - [Runway Gen](https://research.runwayml.com/gen2), a multi-modal AI system that can generate novel videos with text, images, or video clips.
 
+## Plugins
+- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT), 一个浏览器插件, 让在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页.
+
 ## Usage Practice
 - [Chain of Thought Prompting](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html), uses chain of thought and general knowledge prompting with ChatGPT when writing self-testing code; Xu Hao, Martin Fowler
 
 ## Think
+- [Kevin Kelly: Dreams are the Default for Intelligence](https://kk.org/thetechnium/dreams-are-the-default-for-intelligence/)
 - [陆奇: 我的大模型世界观](https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ)
 - [老喻: ChatGPT哲学之谜](https://mp.weixin.qq.com/s/b6icSbY2OA7BAVbuR8DhCw), 
 - [兔主席: GPT、科技、人类的生产、知识与未来（上）](https://mp.weixin.qq.com/s/EKwKoMLCR25CqQVFrEuEgg)

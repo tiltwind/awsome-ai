@@ -19,6 +19,7 @@
 - [ggml](https://github.com/ggerganov/ggml), Tensor library for machine learning.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp), Port of Facebook's LLaMA model in C/C++.
 - [bark](https://github.com/suno-ai/bark), a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying. 
+- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca), 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署.
 
 ## Chat
 - [ChatGPT](https://chat.openai.com/chat), chat based on OpenAI GPT.

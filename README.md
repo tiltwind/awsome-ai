@@ -43,6 +43,7 @@
 - [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings), A Method for Animating Children's Drawings of the Human Figure
 
 ## Audio
+- [AudioGPT](https://github.com/AIGC-Audio/AudioGPT), understanding and Generating Speech, Music, Sound, and Talking Head.
 - [Soundraw](https://soundraw.io/), an innovative composition tool to create songs that match your content perfectly in minutes and with no music composition knowledge!
 - [PolyAI](https://poly.ai/), customer-Led voice assistants that carry on natural conversations with customers to solve their problems.
 - [Playlist Genius](https://www.playlistgeniusai.com/), enter description to generate playlist.

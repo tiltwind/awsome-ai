@@ -53,6 +53,9 @@
 ## Video 
 - [Runway Gen](https://research.runwayml.com/gen2), a multi-modal AI system that can generate novel videos with text, images, or video clips.
 
+## Database
+- [Chat2DB](https://github.com/alibaba/Chat2DB), 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AI (ChatGPT)）
+
 ## Plugins
 - [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT), 一个浏览器插件, 让在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页.
 

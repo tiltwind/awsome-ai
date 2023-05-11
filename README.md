@@ -15,6 +15,7 @@
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), Enhancing Vision-language Understanding with Advanced Large Language Models
 - [gpt4free](https://github.com/xtekky/gpt4free), decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [gpt4all](https://github.com/nomic-ai/gpt4all), an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue.
+  - [privateGPT](https://github.com/imartinez/privateGPT), Interact privately with your documents using the power of GPT, 100% privately, no data leaks. Built with LangChain and GPT4All.
 - [LocalAI](https://github.com/go-skynet/LocalAI), a straightforward, drop-in replacement API compatible with OpenAI for local CPU inferencing, based on llama.cpp, gpt4all and ggml, including support GPT4ALL-J.
 - [ggml](https://github.com/ggerganov/ggml), Tensor library for machine learning.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp), Port of Facebook's LLaMA model in C/C++.

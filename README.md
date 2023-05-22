@@ -40,6 +40,7 @@
 
 ## Image
 - [MidJourney](https://midjourney.com/), generates images from natural language descriptions.
+- [stablediffusion](https://github.com/Stability-AI/stablediffusion), High-Resolution Image Synthesis with Latent Diffusion Models.
 - [文心一格](https://yige.baidu.com/), 百度AI作画产品，依托于飞桨、文心大模型。
 - [SceneXplain](https://scenex.jina.ai/), 识别图片内容转为文字描述
 - [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings), A Method for Animating Children's Drawings of the Human Figure

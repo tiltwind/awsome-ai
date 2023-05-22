@@ -44,6 +44,7 @@
 - [SceneXplain](https://scenex.jina.ai/), 识别图片内容转为文字描述
 - [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings), A Method for Animating Children's Drawings of the Human Figure
 - [shap-e](https://github.com/openai/shap-e), Generate 3D objects conditioned on text or images
+- [civitai.com](https://civitai.com/), provides variety pre-trained image models.
 
 ## Audio
 - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT), understanding and Generating Speech, Music, Sound, and Talking Head.
@@ -53,6 +54,9 @@
 
 ## Video 
 - [Runway Gen](https://research.runwayml.com/gen2), a multi-modal AI system that can generate novel videos with text, images, or video clips.
+
+## Law
+- [LawGPT](https://github.com/pengxiao-song/LaWGPT), Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型.
 
 ## Database
 - [Chat2DB](https://github.com/alibaba/Chat2DB), 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AI (ChatGPT)）

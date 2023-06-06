@@ -24,6 +24,7 @@
 - [MOSS](https://github.com/OpenLMLab/MOSS), 复旦大学开源的一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。
 - [FastChat](https://github.com/lm-sys/FastChat), an open platform for training, serving, and evaluating large language model based chatbots. It releases Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality
 - [femtoGPT](https://github.com/keyvank/femtoGPT), Pure Rust implementation of a minimal Generative Pretrained Transformer
+- [mlc-llm](https://github.com/mlc-ai/mlc-llm), Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 
 ## Chat
 - [ChatGPT](https://chat.openai.com/chat), chat based on OpenAI GPT.

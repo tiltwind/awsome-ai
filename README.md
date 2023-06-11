@@ -51,6 +51,7 @@
 
 ## Audio
 - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT), understanding and Generating Speech, Music, Sound, and Talking Head.
+- [audiocraft](https://github.com/facebookresearch/audiocraft), a library from facebook for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - [Soundraw](https://soundraw.io/), an innovative composition tool to create songs that match your content perfectly in minutes and with no music composition knowledge!
 - [PolyAI](https://poly.ai/), customer-Led voice assistants that carry on natural conversations with customers to solve their problems.
 - [Playlist Genius](https://www.playlistgeniusai.com/), enter description to generate playlist.

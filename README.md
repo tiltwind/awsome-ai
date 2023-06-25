@@ -26,6 +26,7 @@
 - [femtoGPT](https://github.com/keyvank/femtoGPT), Pure Rust implementation of a minimal Generative Pretrained Transformer
 - [mlc-llm](https://github.com/mlc-ai/mlc-llm), Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer), Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [vllm](https://github.com/vllm-project/vllm), A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ## Chat
 - [ChatGPT](https://chat.openai.com/chat), chat based on OpenAI GPT.

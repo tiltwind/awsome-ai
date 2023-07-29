@@ -1,5 +1,9 @@
 # Awsome AI
 
+## Papers
+
+- [Chain-of-Thoughts Papers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
+
 ## LLM
 - [OpenAI GPT4](https://openai.com/research/gpt-4),the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.
 - [LaMDA-Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/), Google's LLM

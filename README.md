@@ -21,6 +21,7 @@
 - [gpt4all](https://github.com/nomic-ai/gpt4all), an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue.
   - [privateGPT](https://github.com/imartinez/privateGPT), Interact privately with your documents using the power of GPT, 100% privately, no data leaks. Built with LangChain and GPT4All.
 - [LocalAI](https://github.com/go-skynet/LocalAI), a straightforward, drop-in replacement API compatible with OpenAI for local CPU inferencing, based on llama.cpp, gpt4all and ggml, including support GPT4ALL-J.
+- [LangChain](https://github.com/langchain-ai/langchain), Building applications with LLMs through composability
 - [ggml](https://github.com/ggerganov/ggml), Tensor library for machine learning.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp), Port of Facebook's LLaMA model in C/C++.
 - [bark](https://github.com/suno-ai/bark), a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying. 

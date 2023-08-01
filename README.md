@@ -5,6 +5,11 @@
 - [Chain-of-Thoughts Papers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
 - [DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt), 总结Prompt&LLM论文，开源数据&模型，AIGC应用
 
+## Prompt Engineering
+
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide), Guides, papers, lecture, notebooks and resources for prompt engineering
+- [Chain of Thought Prompting](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html), uses chain of thought and general knowledge prompting with ChatGPT when writing self-testing code; Xu Hao, Martin Fowler
+  
 ## LLM
 - [OpenAI GPT4](https://openai.com/research/gpt-4),the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.
 - [LaMDA-Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/), Google's LLM
@@ -75,9 +80,6 @@
 
 ## Plugins
 - [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT), 一个浏览器插件, 让在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页.
-
-## Usage Practice
-- [Chain of Thought Prompting](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html), uses chain of thought and general knowledge prompting with ChatGPT when writing self-testing code; Xu Hao, Martin Fowler
 
 ## Think
 - [Kevin Kelly: Dreams are the Default for Intelligence](https://kk.org/thetechnium/dreams-are-the-default-for-intelligence/)

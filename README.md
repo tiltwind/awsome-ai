@@ -47,6 +47,7 @@
 
 ## Program
 - [Copliot](https://github.com/features/copilot/), GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot), a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation
 
 ## Text
 - [Notion AI](https://www.notion.so/), a writing assistant that can help you write, brainstorm, edit, summarize, and more. Consider Notion AI your partner. It augments your thinking — helping you save time or spend it more wisely.

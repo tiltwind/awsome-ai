@@ -40,6 +40,7 @@
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer), Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [vllm](https://github.com/vllm-project/vllm), A high-throughput and memory-efficient inference and serving engine for LLMs
 - [DoctorGPT](https://github.com/llSourcell/DoctorGPT), DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT), Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We release the trained model on HuggingFace.
 
 ## Chat
 - [ChatGPT](https://chat.openai.com/chat), chat based on OpenAI GPT.

@@ -15,7 +15,7 @@
 - [LaMDA-Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/), Google's LLM
 - [LLaMA-Large Language Model Meta AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), Meta's LLM
 - [ERNIE-文心](https://wenxin.baidu.com/), 百度大模型
-- [通义千问](https://tongyi.aliyun.com/), 阿里大模型
+- [通义千问](https://tongyi.aliyun.com/), 阿里大模型, [Qwen](https://github.com/QwenLM/Qwen), chat & pretrained large language model proposed by Alibaba Cloud.
 - 盘古AI, 华为大模型, 即将发布。
 
 ## Frameworks

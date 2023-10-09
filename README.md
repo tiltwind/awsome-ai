@@ -41,6 +41,7 @@
 - [vllm](https://github.com/vllm-project/vllm), A high-throughput and memory-efficient inference and serving engine for LLMs
 - [DoctorGPT](https://github.com/llSourcell/DoctorGPT), DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT), Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We release the trained model on HuggingFace.
+- [Autogen](https://github.com/microsoft/autogen), enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## Chat
 - [ChatGPT](https://chat.openai.com/chat), chat based on OpenAI GPT.

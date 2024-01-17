@@ -42,6 +42,7 @@
 - [DoctorGPT](https://github.com/llSourcell/DoctorGPT), DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT), Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We release the trained model on HuggingFace.
 - [Autogen](https://github.com/microsoft/autogen), enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+- [llamafile](https://github.com/Mozilla-Ocho/llamafile), Distribute and run LLMs with a single file.
 
 ## Chat
 - [ChatGPT](https://chat.openai.com/chat), chat based on OpenAI GPT.
@@ -51,6 +52,7 @@
 ## Program
 - [Copliot](https://github.com/features/copilot/), GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot), a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation
+- [Leon](https://github.com/leon-ai/leon), Leon is your open-source personal assistant.
 
 ## Text
 - [Notion AI](https://www.notion.so/), a writing assistant that can help you write, brainstorm, edit, summarize, and more. Consider Notion AI your partner. It augments your thinking — helping you save time or spend it more wisely.
